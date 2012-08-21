@@ -1,11 +1,26 @@
 {
-  "name": "connect-assets-jade"
+    "name": "connect-assets-jade"
   , "version": "0.0.1"
+  , "author": "Troy Goode <troygoode@gmail.com> (https://github.com/troygoode/)"
+  , "description": "Expose your jade views in the browser using connect-assets."
+  , "keywords": ["connect-assets", "jade", "browser", "client-side", "template"]
+  , "homepage": "https://github.com/TroyGoode/connect-assets-jade"
+  , "repository": {
+      "type": "git"
+    , "url": "git@github.com:TroyGoode/connect-assets-jade.git"
+  }
+  , "license": [{
+      "type": "MIT"
+    , "url": "http://www.opensource.org/licenses/mit-license.php"
+  }]
+  , "bugs": {
+      "url": "https://github.com/TroyGoode/connect-assets-jade/issues"
+  }
+  , "engines": {
+    "node": ">=0.8.0"
+  }
   , "dependencies": {
       "jade": "*"
-  }
-  , "devDependencies": {
-      "express": "2.x"
-    , "connect-assets": "*"
+    , "underscore": "*"
   }
 }

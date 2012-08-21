@@ -1,0 +1,13 @@
+!!! 5
+html(lang='en')
+  head
+    meta(charset='utf-8')
+    title Example App for connect-assets-jade
+  body
+    p This app shows an example of sharing a jade template between the client and server by making it a mixin called by both:
+
+    include mixins/product
+    dl#products
+      mixin product('This product is rendered on the server.', '0.99')
+
+    !=js('app')
