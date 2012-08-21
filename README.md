@@ -1,6 +1,6 @@
 # connect-assets-jade
 
-Expose your jade views in the browser using connect-assets.
+Expose your jade views in the browser using [`connect-assets`](https://github.com/TrevorBurnham/connect-assets/).
 
 ## Installation
 
