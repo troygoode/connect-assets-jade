@@ -1,0 +1,11 @@
+{
+  "name": "connect-assets-jade"
+  , "version": "0.0.1"
+  , "dependencies": {
+      "jade": "*"
+  }
+  , "devDependencies": {
+      "express": "2.x"
+    , "connect-assets": "*"
+  }
+}
