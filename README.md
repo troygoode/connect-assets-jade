@@ -17,7 +17,7 @@ Integration with [`connect-assets`](https://github.com/TrevorBurnham/connect-ass
 ```javascript
 var express = require('express')
   , assets = require('connect-assets')
-  , jadeAssets = require('../') // <-- here
+  , jadeAssets = require('connect-assets-jade') // <-- here
   , PORT = 3000;
 
 var app = express.createServer();
