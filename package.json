@@ -1,10 +1,11 @@
 {
     "name": "connect-assets-jade"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "author": "Troy Goode <troygoode@gmail.com> (https://github.com/troygoode/)"
   , "description": "Expose your jade views in the browser using connect-assets."
   , "keywords": ["connect-assets", "jade", "browser", "client-side", "template"]
   , "homepage": "https://github.com/TroyGoode/connect-assets-jade"
+  , "main": "lib/index.js"
   , "repository": {
       "type": "git"
     , "url": "git@github.com:TroyGoode/connect-assets-jade.git"
