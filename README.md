@@ -42,6 +42,11 @@ app.listen(PORT, function(){
 });
 ```
 
+## Credits
+
+* [Trevor Power](http://trevorpower.com/) for identifying [how to use `connect-assets'` `jsCompilers` configuration option](http://trevorpower.com/blog/server-side-compiling-of-jade-templates-with-connect-assets).
+* [Mike Ball](https://twitter.com/onkis) for pointing me in the direction of this approach.
+
 ## License
 
 [MIT License](http://www.opensource.org/licenses/mit-license.php)
@@ -49,8 +54,3 @@ app.listen(PORT, function(){
 ## Author
 
 [Troy Goode](https://github.com/TroyGoode) ([troygoode@gmail.com](mailto:troygoode@gmail.com))
-
-## Credits
-
-[Trevor Power](http://trevorpower.com/) for identifying [how to use `connect-assets'` `jsCompilers` configuration option](http://trevorpower.com/blog/server-side-compiling-of-jade-templates-with-connect-assets).
-[Mike Ball](https://twitter.com/onkis) for pointing me in the direction of this approach.
