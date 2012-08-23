@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/TroyGoode/connect-assets-jade.png)](http://travis-ci.org/TroyGoode/connect-assets-jade)
 # connect-assets-jade
 
 Expose your jade views in the browser using [`connect-assets`](https://github.com/TrevorBurnham/connect-assets/).
