@@ -1,6 +1,6 @@
 {
     "name": "connect-assets-jade"
-  , "version": "0.0.2"
+  , "version": "0.0.3"
   , "author": "Troy Goode <troygoode@gmail.com> (https://github.com/troygoode/)"
   , "description": "Expose your jade views in the browser using connect-assets."
   , "keywords": ["connect-assets", "jade", "browser", "client-side", "template"]

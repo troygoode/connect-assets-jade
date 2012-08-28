@@ -10,7 +10,7 @@ app.configure(function(){
   app.set('view options', {layout: false});
 
   app.use(assets({
-    jsCompilers: jadeAssets()
+    jsCompilers: {jade: jadeAssets()}
   }));
 
   app.use(app.router);
