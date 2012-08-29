@@ -27,7 +27,9 @@ app.configure(function(){
   app.set('view options', {layout: false});
 
   app.use(assets({
-    jsCompilers: jadeAssets() // <-- and here
+    jsCompilers: {
+      jade: jadeAssets() // <-- and here
+    }
   }));
 
   app.use(app.router);
