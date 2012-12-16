@@ -2,7 +2,7 @@
 
 Expose your jade views in the browser using [`connect-assets`](https://github.com/TrevorBurnham/connect-assets/).
 
-## Installation
+## Installation (via [npm](https://npmjs.org/package/connect-assets-jade))
 
 ```bash
 $ npm install connect-assets-jade
