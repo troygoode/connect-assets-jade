@@ -31,5 +31,7 @@
       "mocha": "latest"
     , "should": "latest"
     , "supertest": "latest"
+    , "express": "2.x"
+    , "connect-assets": "latest"
   }
 }
