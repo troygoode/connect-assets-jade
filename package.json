@@ -24,7 +24,7 @@
     "node": ">=0.6.0"
   }
   , "dependencies": {
-      "jade": ">= 0.27.0"
+      "jade": ">= 0.29.0"
     , "underscore": "latest"
   }
   , "devDependencies": {
