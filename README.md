@@ -4,6 +4,8 @@ Expose your jade views in the browser using [`connect-assets`](https://github.co
 
 [![build status](https://secure.travis-ci.org/TroyGoode/connect-assets-jade.png)](http://travis-ci.org/TroyGoode/connect-assets-jade)
 
+[Tips are welcome, but not expected.](https://www.gittip.com/TroyGoode/)
+
 ## Installation (via [npm](https://npmjs.org/package/connect-assets-jade))
 
 ```bash
